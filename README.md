@@ -15,3 +15,5 @@
 * [如何在 Swift 中优雅地使用 UIImage(A Beautiful Solution to Non-Optional UIImage Named in Swift)](https://github.com/kevin833752/MyTranslationSet/blob/master/%E5%A6%82%E4%BD%95%E5%9C%A8%20Swift%20%E4%B8%AD%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8%20UIImage(A%20Beautiful%20Solution%20to%20Non-Optional%20UIImage%20Named%20in%20Swift).md)
 
 * [如何在 Swift 中使用字典树(A Trie in Swift)](https://github.com/kevin833752/MyTranslationSet/blob/master/%E5%A6%82%E4%BD%95%E5%9C%A8%20Swift%20%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%AD%97%E5%85%B8%E6%A0%91(A%20Trie%20in%20Swift).md) 
+
+* [如何在 iOS 8 中使用 Swift 实现本地通知(上)(Local Notifications in iOS 8 with Swift (Part 1))](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E5%9C%A8%20iOS%208%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20Swift%20%E5%AE%9E%E7%8E%B0%E6%9C%AC%E5%9C%B0%E9%80%9A%E7%9F%A5(%E4%B8%8A)(Local%20Notifications%20in%20iOS%208%20with%20Swift%20(Part%201)).md)
