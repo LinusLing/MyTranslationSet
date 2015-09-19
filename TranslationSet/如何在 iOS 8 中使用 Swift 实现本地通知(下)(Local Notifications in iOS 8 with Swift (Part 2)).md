@@ -96,7 +96,7 @@ func application(application: UIApplication, didFinishLaunchingWithOptions launc
 }
 ```
 
-值得注意的是，上面的代码中我们调用了`todoCategory.setActions()`两次，分别设置了动作上下文（action contexts）。如果通知是以横幅（banner）的形式显示，那么通知动作会以迷你形式（minimal context）显示出来。如果通知是以（默认的）提示（alert） 形式显示，通知动作会显示至少 4 个操作。如下图。
+值得注意的是，上面的代码中我们调用了`todoCategory.setActions()`两次，分别设置了动作上下文（action contexts）。如果通知是以横幅（banner）的形式显示，那么通知动作会以迷你形式（minimal context）显示出来。如果通知是以（默认的）提示（alert） 形式显示，通知动作会显示至多 4 个操作。如下图。
 
 ![](http://jamesonquave.com/blog/wp-content/uploads/iOS-Simulator-Screen-Shot-Feb-6-2015-12.41.20-AM.png)![](http://jamesonquave.com/blog/wp-content/uploads/iOS-Simulator-Screen-Shot-Feb-6-2015-12.06.33-AM.png)
 
