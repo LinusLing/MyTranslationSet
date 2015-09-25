@@ -19,3 +19,5 @@
 * [如何在 iOS 8 中使用 Swift 实现本地通知(上)(Local Notifications in iOS 8 with Swift (Part 1))](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E5%9C%A8%20iOS%208%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20Swift%20%E5%AE%9E%E7%8E%B0%E6%9C%AC%E5%9C%B0%E9%80%9A%E7%9F%A5(%E4%B8%8A)(Local%20Notifications%20in%20iOS%208%20with%20Swift%20(Part%201)).md)
 
 * [如何在 iOS 8 中使用 Swift 实现本地通知(下)(Local Notifications in iOS 8 with Swift (Part 2))](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E5%9C%A8%20iOS%208%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20Swift%20%E5%AE%9E%E7%8E%B0%E6%9C%AC%E5%9C%B0%E9%80%9A%E7%9F%A5(%E4%B8%8B)(Local%20Notifications%20in%20iOS%208%20with%20Swift%20(Part%202)).md)
+
+* [如何在 Swift 2.0 中实现从非零下标遍历数组(Ask Erica- How do I loop from non-zero n)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E5%9C%A8%20Swift%202.0%20%E4%B8%AD%E5%AE%9E%E7%8E%B0%E4%BB%8E%E9%9D%9E%E9%9B%B6%E4%B8%8B%E6%A0%87%E9%81%8D%E5%8E%86%E6%95%B0%E7%BB%84(Ask%20Erica-%20How%20do%20I%20loop%20from%20non-zero%20n).md) 
