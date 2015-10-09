@@ -1,4 +1,4 @@
-# Swift中枚举的使用
+# Swift 中枚举的使用
 
 ---
 原文链接：[Understanding Enums using Swift](http://rajkandathi.com/understanding-enums-using-swift/) 
