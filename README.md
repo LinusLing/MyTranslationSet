@@ -23,3 +23,5 @@
 * [如何在 Swift 2.0 中实现从非零下标遍历数组(Ask Erica- How do I loop from non-zero n)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E5%9C%A8%20Swift%202.0%20%E4%B8%AD%E5%AE%9E%E7%8E%B0%E4%BB%8E%E9%9D%9E%E9%9B%B6%E4%B8%8B%E6%A0%87%E9%81%8D%E5%8E%86%E6%95%B0%E7%BB%84(Ask%20Erica-%20How%20do%20I%20loop%20from%20non-zero%20n).md) 
 
 * [如何在 iOS 9 中创建 Stack View(Stack View Tutorial)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E5%9C%A8%20iOS%209%20%E4%B8%AD%E5%88%9B%E5%BB%BA%20Stack%20View(Stack%20View%20Tutorial).md)
+
+* [关于 Swift 的 5 个误区(Five Myths About Swift)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%85%B3%E4%BA%8E%20Swift%20%E7%9A%84%205%20%E4%B8%AA%E8%AF%AF%E5%8C%BA(Five%20Myths%20About%20Swift).md)
