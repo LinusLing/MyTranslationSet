@@ -25,3 +25,15 @@
 * [如何在 iOS 9 中创建 Stack View(Stack View Tutorial)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E5%9C%A8%20iOS%209%20%E4%B8%AD%E5%88%9B%E5%BB%BA%20Stack%20View(Stack%20View%20Tutorial).md)
 
 * [关于 Swift 的 5 个误区(Five Myths About Swift)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%85%B3%E4%BA%8E%20Swift%20%E7%9A%84%205%20%E4%B8%AA%E8%AF%AF%E5%8C%BA(Five%20Myths%20About%20Swift).md)
+
+* [写给初学者的 Swift 教程 Part 1(Swift Tutorial For Beginners：Part 1)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%86%99%E7%BB%99%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%84%20Swift%20%E6%95%99%E7%A8%8B%20Part%201(Swift%20Tutorial%20For%20Beginners%EF%BC%9APart%201).md)
+
+* [如何在 Swift 中使用 Alamofire 进行网络编程(The Absolute Guide to Networking in Swift with Alamofire)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E5%9C%A8%20Swift%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20Alamofire%20%E8%BF%9B%E8%A1%8C%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B(The%20Absolute%20Guide%20to%20Networking%20in%20Swift%20with%20Alamofire).md)
+
+* [Swift 3 及展望(Swift 3 And Beyond)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/Swift%203%20%E5%8F%8A%E5%B1%95%E6%9C%9B(Swift%203%20And%20Beyond).md)
+
+* [如何使用 Swift、 Foursquare API 及 Realm 构建一款 Coffee Shop 应用(Building a Coffee Shop App with Swift, Foursquare API and Realm)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20Swift%E3%80%81%20Foursquare%20API%20%E5%8F%8A%20Realm%20%E6%9E%84%E5%BB%BA%E4%B8%80%E6%AC%BE%20Coffee%20Shop%20%E5%BA%94%E7%94%A8(Building%20a%20Coffee%20Shop%20App%20with%20Swift%2C%20Foursquare%20API%20and%20Realm).md)
+
+* [在 Target-Action 中使用响应链(Utilize The Responder Chain For Target-Action)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%9C%A8%20Target-Action%20%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%93%8D%E5%BA%94%E9%93%BE(Utilize%20The%20Responder%20Chain%20For%20Target-Action).md)
+
+* [如何使用 OAuth 2.0 将 LinkedIn 集成入 iOS 应用(Integrating LinkedIn Sign In with iOS Apps Using OAuth 2.0)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20OAuth%202.0%20%E5%B0%86%20LinkedIn%20%E9%9B%86%E6%88%90%E5%85%A5%20iOS%20%E5%BA%94%E7%94%A8(Integrating%20LinkedIn%20Sign%20In%20with%20iOS%20Apps%20Using%20OAuth%202.0).md)
