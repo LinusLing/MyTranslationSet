@@ -1,14 +1,16 @@
 # MyTranslationSet
 
-此仓库是本人(SwiftGG 翻译组成员)对国外 Swift 技术文章译文的备份，译文首发 [SwiftGG 官网](http://swift.gg)。注：版权属于原作者。
+此仓库是本人(SwiftGG 翻译组成员)对国外 Swift 技术文章译文的备份，本人所有的译文发布在 [SwiftGG](http://search.swift.gg/cse/search?s=4873498141517765035&q=%E8%AF%91%E8%80%85%3A%E5%B0%8F%E9%93%81%E5%8C%A0Linus) 官网和[个人博客](http://blogoflinus.sinaapp.com/)上。
+
+注：版权属于原作者。
 
 ---
 
 * [Swift 2.0 中使用 try? 关键字(Swift 2.0 - Let’s try)](https://github.com/kevin833752/MyTranslationSet/blob/master/Swift%202.0%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20try%3F%20%E5%85%B3%E9%94%AE%E5%AD%97(Swift%202.0%20-%20Let%E2%80%99s%20try).md)
 
-* [Swift 2.0 中的面向协议的MVVM(Swift 2.0：Protocol-Oriented MVVM)](https://github.com/kevin833752/MyTranslationSet/blob/master/Swift%202.0%20%E4%B8%AD%E7%9A%84%E9%9D%A2%E5%90%91%E5%8D%8F%E8%AE%AE%E7%9A%84MVVM(Swift%202.0%EF%BC%9AProtocol-Oriented%20MVVM).md)
+* [Swift 2.0 中的面向协议的 MVVM(Swift 2.0：Protocol-Oriented MVVM)](https://github.com/kevin833752/MyTranslationSet/blob/master/Swift%202.0%20%E4%B8%AD%E7%9A%84%E9%9D%A2%E5%90%91%E5%8D%8F%E8%AE%AE%E7%9A%84MVVM(Swift%202.0%EF%BC%9AProtocol-Oriented%20MVVM).md)
 
-* [Swift中枚举的使用(Understanding Enums using Swift)](https://github.com/kevin833752/MyTranslationSet/blob/master/Swift%E4%B8%AD%E6%9E%9A%E4%B8%BE%E7%9A%84%E4%BD%BF%E7%94%A8(Understanding%20Enums%20using%20Swift).md)
+* [Swift 中枚举的使用(Understanding Enums using Swift)](https://github.com/kevin833752/MyTranslationSet/blob/master/Swift%E4%B8%AD%E6%9E%9A%E4%B8%BE%E7%9A%84%E4%BD%BF%E7%94%A8(Understanding%20Enums%20using%20Swift).md)
 
 * [协议 - 我当前的推荐(Protocols - My Current Recommendations)](https://github.com/kevin833752/MyTranslationSet/blob/master/%E5%8D%8F%E8%AE%AE%20-%20%E6%88%91%E5%BD%93%E5%89%8D%E7%9A%84%E6%8E%A8%E8%8D%90(Protocols%20-%20My%20Current%20Recommendations).md)
 
@@ -32,7 +34,7 @@
 
 * [Swift 3 及展望(Swift 3 And Beyond)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/Swift%203%20%E5%8F%8A%E5%B1%95%E6%9C%9B(Swift%203%20And%20Beyond).md)
 
-* [如何使用 Swift、 Foursquare API 及 Realm 构建一款 Coffee Shop 应用(Building a Coffee Shop App with Swift, Foursquare API and Realm)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20Swift%E3%80%81%20Foursquare%20API%20%E5%8F%8A%20Realm%20%E6%9E%84%E5%BB%BA%E4%B8%80%E6%AC%BE%20Coffee%20Shop%20%E5%BA%94%E7%94%A8(Building%20a%20Coffee%20Shop%20App%20with%20Swift%2C%20Foursquare%20API%20and%20Realm).md)
+* [如何使用 Swift、Foursquare API 及 Realm 构建一款 Coffee Shop 应用(Building a Coffee Shop App with Swift, Foursquare API and Realm)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20Swift%E3%80%81%20Foursquare%20API%20%E5%8F%8A%20Realm%20%E6%9E%84%E5%BB%BA%E4%B8%80%E6%AC%BE%20Coffee%20Shop%20%E5%BA%94%E7%94%A8(Building%20a%20Coffee%20Shop%20App%20with%20Swift%2C%20Foursquare%20API%20and%20Realm).md)
 
 * [在 Target-Action 中使用响应链(Utilize The Responder Chain For Target-Action)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%9C%A8%20Target-Action%20%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%93%8D%E5%BA%94%E9%93%BE(Utilize%20The%20Responder%20Chain%20For%20Target-Action).md)
 
