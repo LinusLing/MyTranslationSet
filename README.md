@@ -1,6 +1,6 @@
 # MyTranslationSet
 
-此仓库是本人(SwiftGG 翻译组成员)对国外 Swift 技术文章译文的备份，本人所有的译文发布在 [SwiftGG](http://search.swift.gg/cse/search?s=4873498141517765035&q=%E8%AF%91%E8%80%85%3A%E5%B0%8F%E9%93%81%E5%8C%A0Linus) 官网和[个人博客](http://blogoflinus.sinaapp.com/)上。
+此仓库是本人(SwiftGG 翻译组成员)对国外 Swift 技术文章译文的备份，本人所有的译文发布在 [SwiftGG](http://search.swift.gg/cse/search?s=4873498141517765035&q=%E8%AF%91%E8%80%85%3A%E5%B0%8F%E9%93%81%E5%8C%A0Linus) 官网和[个人博客](http://linusling.com/)上。
 
 注：版权属于原作者。
 
@@ -39,3 +39,5 @@
 * [在 Target-Action 中使用响应链(Utilize The Responder Chain For Target-Action)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%9C%A8%20Target-Action%20%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%93%8D%E5%BA%94%E9%93%BE(Utilize%20The%20Responder%20Chain%20For%20Target-Action).md)
 
 * [如何使用 OAuth 2.0 将 LinkedIn 集成入 iOS 应用(Integrating LinkedIn Sign In with iOS Apps Using OAuth 2.0)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20OAuth%202.0%20%E5%B0%86%20LinkedIn%20%E9%9B%86%E6%88%90%E5%85%A5%20iOS%20%E5%BA%94%E7%94%A8(Integrating%20LinkedIn%20Sign%20In%20with%20iOS%20Apps%20Using%20OAuth%202.0).md)
+
+* [如何在 Swift 中高效地使用 Method Swizzling(Effective Method Swizzling in Swift)](https://github.com/LinusLing/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E5%9C%A8%20Swift%20%E4%B8%AD%E9%AB%98%E6%95%88%E5%9C%B0%E4%BD%BF%E7%94%A8%20Method%20Swizzling(Effective%20Method%20Swizzling%20in%20Swift).md)
