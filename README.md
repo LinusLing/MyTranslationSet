@@ -42,4 +42,4 @@
 
 * [如何在 Swift 中高效地使用 Method Swizzling(Effective Method Swizzling in Swift)](https://github.com/LinusLing/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E5%9C%A8%20Swift%20%E4%B8%AD%E9%AB%98%E6%95%88%E5%9C%B0%E4%BD%BF%E7%94%A8%20Method%20Swizzling(Effective%20Method%20Swizzling%20in%20Swift).md)
 
-* [使用 Quick Look Framework 快速预览文档(Using Quick Look Framework for Previewing Documents)]()
+* [使用 Quick Look Framework 快速预览文档(Using Quick Look Framework for Previewing Documents)](https://github.com/LinusLing/MyTranslationSet/blob/master/TranslationSet%2F%E4%BD%BF%E7%94%A8%20Quick%20Look%20Framework%20%E5%BF%AB%E9%80%9F%E9%A2%84%E8%A7%88%E6%96%87%E6%A1%A3(Using%20Quick%20Look%20Framework%20for%20Previewing%20Documents).md)
