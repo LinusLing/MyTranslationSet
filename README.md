@@ -41,3 +41,5 @@
 * [如何使用 OAuth 2.0 将 LinkedIn 集成入 iOS 应用(Integrating LinkedIn Sign In with iOS Apps Using OAuth 2.0)](https://github.com/kevin833752/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20OAuth%202.0%20%E5%B0%86%20LinkedIn%20%E9%9B%86%E6%88%90%E5%85%A5%20iOS%20%E5%BA%94%E7%94%A8(Integrating%20LinkedIn%20Sign%20In%20with%20iOS%20Apps%20Using%20OAuth%202.0).md)
 
 * [如何在 Swift 中高效地使用 Method Swizzling(Effective Method Swizzling in Swift)](https://github.com/LinusLing/MyTranslationSet/blob/master/TranslationSet/%E5%A6%82%E4%BD%95%E5%9C%A8%20Swift%20%E4%B8%AD%E9%AB%98%E6%95%88%E5%9C%B0%E4%BD%BF%E7%94%A8%20Method%20Swizzling(Effective%20Method%20Swizzling%20in%20Swift).md)
+
+* [使用 Quick Look Framework 快速预览文档(Using Quick Look Framework for Previewing Documents)]()
